@@ -1,3 +1,9 @@
+<style>
+  body {
+  background-color: #0c0c0c;
+  color: #fff;
+  }
+</style>
 <h2>Just Coding and Tinkering.</h2>
 <p>I'm not looking for a "day job", I enjoy coding as a hobby, but I do some contract work here and there, so this isn't some <em>"Awesome Code Showcase"</em>, it's just some of the stuff I've come up with.</p>
 <h2><em>Decisions decisions...</em></h2>
