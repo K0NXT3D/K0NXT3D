@@ -8,7 +8,6 @@ The majority of my web development is based around getting top ten results on th
 <p>My Sites</p>
 <h4><a href="http://www.seaverns.com/" target="_blank" />My Code Dump</a></h4>
 <h4><a href="http://darkmatter.seaverns.com/" target="_blank" />DarkMatter WebMaster Utilities / WordPress Plugins</a></h4>
-<h4><a href="http://www.ultimatefileshare.net/" target="_blank" />How Far Can You Get?</a></h4>
 
 <p>Some Good Stuff</p>
 https://github.com/UBoat-Botnet/UBoat<br>
