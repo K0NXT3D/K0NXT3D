@@ -5,10 +5,6 @@
 The majority of my web development is based around getting top ten results on the big search engines and although I'm rebuilding my last CMS (H2SEO) with the same <em>"Black Hat"</em> techniques, it's going to be a minute before I really dig back in to rebuilding old tech.</p>
 <p>Whatever.</p>
 
-<p>My Sites</p>
-<h4><a href="http://www.seaverns.com/" target="_blank" />My Code Dump</a></h4>
-<h4><a href="http://darkmatter.seaverns.com/" target="_blank" />DarkMatter WebMaster Utilities / WordPress Plugins</a></h4>
-
 <p>Some Good Stuff</p>
 https://github.com/UBoat-Botnet/UBoat<br>
 https://github.com/maestron/botnets<br>
